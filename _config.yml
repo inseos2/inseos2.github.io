@@ -126,3 +126,8 @@ exclude:
   - "*.ipynb"
   - "python_notebooks/*"
   - vendor
+gallery_items:
+  resize_dimensions: "800x800"
+url: "https://inseos2.github.io"
+baseurl: ""
+
